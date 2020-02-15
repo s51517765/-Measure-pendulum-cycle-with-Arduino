@@ -4,6 +4,8 @@
 ## 概要
 振り子の周期を明るさセンサ（CDS）とArduinoで測定します。
 
+<img src="https://github.com/s51517765/-Measure-pendulum-cycle-with-Arduino/blob/master/DSC_0738.JPG">
+
 ## 動作要件 (Requirements)
 
 Arduino.
